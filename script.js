@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  /* ─── Contador regressivo até 04 de maio ────── */
+  /* ─── Contador regressivo até 04 de maio ────── 
   const targetDate = new Date('2025-05-04T23:59:59');
 
   function updateCountdown() {
@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     tick();
     setInterval(tick, 1000);
-  }
+  }*/
 
 
   /* ─── CTA pulse animation trigger ──────────── */
